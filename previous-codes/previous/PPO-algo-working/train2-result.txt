@@ -1,0 +1,11 @@
+ python train2.py
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+Episode 001 | Total Reward:   -80.21 | Result: COLLISION
+Episode 002 | Total Reward:    57.97 | Result: COLLISION
+Episode 003 | Total Reward:    22.56 | Result: COLLISION
+Episode 004 | Total Reward:   -33.47 | Result: COLLISION
+Episode 005 | Total Reward:   -48.74 | Result: COLLISION
+Episode 006 | Total Reward:   -74.12 | Result: COLLISION
+Episode 007 | Total Reward:  -138.18 | Result: COLLISION

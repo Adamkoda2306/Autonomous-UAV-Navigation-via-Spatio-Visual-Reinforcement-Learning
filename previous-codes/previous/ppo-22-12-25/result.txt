@@ -1,0 +1,634 @@
+Episode 504 | Total Reward: -10072.08 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 60.5         |
+|    ep_rew_mean          | -1.8e+03     |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 364          |
+|    time_elapsed         | 35458        |
+|    total_timesteps      | 46592        |
+| train/                  |              |
+|    approx_kl            | 0.0041336096 |
+|    clip_fraction        | 0.00937      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.91        |
+|    explained_variance   | 1.79e-07     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.09e+04     |
+|    n_updates            | 3630         |
+|    policy_gradient_loss | -0.0019      |
+|    std                  | 1.04         |
+|    value_loss           | 1.22e+05     |
+------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 60.5         |
+|    ep_rew_mean          | -1.8e+03     |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 365          |
+|    time_elapsed         | 35492        |
+|    total_timesteps      | 46720        |
+| train/                  |              |
+|    approx_kl            | 0.0013827765 |
+|    clip_fraction        | 0.000781     |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.91        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.26e+04     |
+|    n_updates            | 3640         |
+|    policy_gradient_loss | -0.0032      |
+|    std                  | 1.04         |
+|    value_loss           | 1.25e+05     |
+------------------------------------------
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 60.5          |
+|    ep_rew_mean          | -1.8e+03      |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 366           |
+|    time_elapsed         | 35515         |
+|    total_timesteps      | 46848         |
+| train/                  |               |
+|    approx_kl            | 0.00010417029 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.91         |
+|    explained_variance   | 5.96e-08      |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.54e+04      |
+|    n_updates            | 3650          |
+|    policy_gradient_loss | -0.000783     |
+|    std                  | 1.04          |
+|    value_loss           | 1.31e+05      |
+-------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 60.5         |
+|    ep_rew_mean          | -1.8e+03     |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 367          |
+|    time_elapsed         | 35558        |
+|    total_timesteps      | 46976        |
+| train/                  |              |
+|    approx_kl            | 0.0002603368 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.91        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.39e+04     |
+|    n_updates            | 3660         |
+|    policy_gradient_loss | -0.00114     |
+|    std                  | 1.03         |
+|    value_loss           | 1.28e+05     |
+------------------------------------------
+Episode 505 | Total Reward: -12243.97 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 64.7         |
+|    ep_rew_mean          | -1.91e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 368          |
+|    time_elapsed         | 35593        |
+|    total_timesteps      | 47104        |
+| train/                  |              |
+|    approx_kl            | 0.0010746596 |
+|    clip_fraction        | 0.00234      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.9         |
+|    explained_variance   | 1.19e-06     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.29e+04     |
+|    n_updates            | 3670         |
+|    policy_gradient_loss | -0.00465     |
+|    std                  | 1.03         |
+|    value_loss           | 1.26e+05     |
+------------------------------------------
+Episode 506 | Total Reward: -4235.28 | Result: COLLISION
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 65.9        |
+|    ep_rew_mean          | -1.94e+03   |
+| time/                   |             |
+|    fps                  | 1           |
+|    iterations           | 369         |
+|    time_elapsed         | 35632       |
+|    total_timesteps      | 47232       |
+| train/                  |             |
+|    approx_kl            | 0.001451184 |
+|    clip_fraction        | 0.000781    |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.9        |
+|    explained_variance   | -4.77e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 6e+04       |
+|    n_updates            | 3680        |
+|    policy_gradient_loss | -0.00444    |
+|    std                  | 1.03        |
+|    value_loss           | 1.2e+05     |
+-----------------------------------------
+Episode 507 | Total Reward: -4164.09 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 66.9         |
+|    ep_rew_mean          | -1.96e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 370          |
+|    time_elapsed         | 35673        |
+|    total_timesteps      | 47360        |
+| train/                  |              |
+|    approx_kl            | 0.0027124998 |
+|    clip_fraction        | 0.00313      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.9         |
+|    explained_variance   | -4.77e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 5.87e+04     |
+|    n_updates            | 3690         |
+|    policy_gradient_loss | -0.00417     |
+|    std                  | 1.03         |
+|    value_loss           | 1.17e+05     |
+------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 66.9         |
+|    ep_rew_mean          | -1.96e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 371          |
+|    time_elapsed         | 35722        |
+|    total_timesteps      | 47488        |
+| train/                  |              |
+|    approx_kl            | 0.0006430736 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.9         |
+|    explained_variance   | -2.38e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 5.74e+04     |
+|    n_updates            | 3700         |
+|    policy_gradient_loss | -0.00165     |
+|    std                  | 1.03         |
+|    value_loss           | 1.15e+05     |
+------------------------------------------
+Episode 508 | Total Reward: -5677.86 | Result: COLLISION
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 68.7          |
+|    ep_rew_mean          | -2e+03        |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 372           |
+|    time_elapsed         | 35757         |
+|    total_timesteps      | 47616         |
+| train/                  |               |
+|    approx_kl            | 0.00027939258 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | 1.19e-07      |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.14e+04      |
+|    n_updates            | 3710          |
+|    policy_gradient_loss | -0.00027      |
+|    std                  | 1.03          |
+|    value_loss           | 1.23e+05      |
+-------------------------------------------
+Episode 509 | Total Reward: -2691.17 | Result: COLLISION
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 69.4          |
+|    ep_rew_mean          | -2.02e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 373           |
+|    time_elapsed         | 35794         |
+|    total_timesteps      | 47744         |
+| train/                  |               |
+|    approx_kl            | 0.00017135683 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -4.77e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 5.58e+04      |
+|    n_updates            | 3720          |
+|    policy_gradient_loss | -0.00171      |
+|    std                  | 1.03          |
+|    value_loss           | 1.12e+05      |
+-------------------------------------------
+Episode 510 | Total Reward: -2936.61 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 69.9         |
+|    ep_rew_mean          | -2.03e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 374          |
+|    time_elapsed         | 35837        |
+|    total_timesteps      | 47872        |
+| train/                  |              |
+|    approx_kl            | 8.272426e-05 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -5.96e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 5.96e+04     |
+|    n_updates            | 3730         |
+|    policy_gradient_loss | 0.000228     |
+|    std                  | 1.03         |
+|    value_loss           | 1.19e+05     |
+------------------------------------------
+Episode 511 | Total Reward: -5752.68 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 71.5         |
+|    ep_rew_mean          | -2.07e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 375          |
+|    time_elapsed         | 35871        |
+|    total_timesteps      | 48000        |
+| train/                  |              |
+|    approx_kl            | 0.0011656084 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -4.77e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.21e+04     |
+|    n_updates            | 3740         |
+|    policy_gradient_loss | -0.00491     |
+|    std                  | 1.03         |
+|    value_loss           | 1.24e+05     |
+------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 71.5         |
+|    ep_rew_mean          | -2.07e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 376          |
+|    time_elapsed         | 35916        |
+|    total_timesteps      | 48128        |
+| train/                  |              |
+|    approx_kl            | 0.0010367082 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | 4.17e-07     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.02e+04     |
+|    n_updates            | 3750         |
+|    policy_gradient_loss | -0.000889    |
+|    std                  | 1.03         |
+|    value_loss           | 1.2e+05      |
+------------------------------------------
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 71.5          |
+|    ep_rew_mean          | -2.07e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 377           |
+|    time_elapsed         | 35943         |
+|    total_timesteps      | 48256         |
+| train/                  |               |
+|    approx_kl            | 0.00012966199 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -1.19e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.55e+04      |
+|    n_updates            | 3760          |
+|    policy_gradient_loss | -0.00138      |
+|    std                  | 1.03          |
+|    value_loss           | 1.31e+05      |
+-------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 71.5         |
+|    ep_rew_mean          | -2.07e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 378          |
+|    time_elapsed         | 35966        |
+|    total_timesteps      | 48384        |
+| train/                  |              |
+|    approx_kl            | 0.0003824029 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | 1.19e-07     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.39e+04     |
+|    n_updates            | 3770         |
+|    policy_gradient_loss | -0.00249     |
+|    std                  | 1.03         |
+|    value_loss           | 1.28e+05     |
+------------------------------------------
+Episode 512 | Total Reward: -10139.96 | Result: COLLISION
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 75.1        |
+|    ep_rew_mean          | -2.16e+03   |
+| time/                   |             |
+|    fps                  | 1           |
+|    iterations           | 379         |
+|    time_elapsed         | 36002       |
+|    total_timesteps      | 48512       |
+| train/                  |             |
+|    approx_kl            | 0.002995669 |
+|    clip_fraction        | 0.000781    |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.89       |
+|    explained_variance   | 3.58e-07    |
+|    learning_rate        | 0.0003      |
+|    loss                 | 6.6e+04     |
+|    n_updates            | 3780        |
+|    policy_gradient_loss | -0.00681    |
+|    std                  | 1.03        |
+|    value_loss           | 1.32e+05    |
+-----------------------------------------
+Episode 513 | Total Reward: -4784.34 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 76.5         |
+|    ep_rew_mean          | -2.19e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 380          |
+|    time_elapsed         | 36047        |
+|    total_timesteps      | 48640        |
+| train/                  |              |
+|    approx_kl            | 0.0024454766 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -2.38e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.73e+04     |
+|    n_updates            | 3790         |
+|    policy_gradient_loss | -0.00888     |
+|    std                  | 1.03         |
+|    value_loss           | 1.35e+05     |
+------------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 76.5        |
+|    ep_rew_mean          | -2.19e+03   |
+| time/                   |             |
+|    fps                  | 1           |
+|    iterations           | 381         |
+|    time_elapsed         | 36081       |
+|    total_timesteps      | 48768       |
+| train/                  |             |
+|    approx_kl            | 0.004610095 |
+|    clip_fraction        | 0.00703     |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.89       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 5.57e+04    |
+|    n_updates            | 3800        |
+|    policy_gradient_loss | -0.0121     |
+|    std                  | 1.03        |
+|    value_loss           | 1.11e+05    |
+-----------------------------------------
+Episode 514 | Total Reward: -5062.60 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 78.1         |
+|    ep_rew_mean          | -2.23e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 382          |
+|    time_elapsed         | 36117        |
+|    total_timesteps      | 48896        |
+| train/                  |              |
+|    approx_kl            | 0.0017252215 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.35e+04     |
+|    n_updates            | 3810         |
+|    policy_gradient_loss | -0.000782    |
+|    std                  | 1.03         |
+|    value_loss           | 1.27e+05     |
+------------------------------------------
+Episode 515 | Total Reward: -3378.16 | Result: COLLISION
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 78.8          |
+|    ep_rew_mean          | -2.24e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 383           |
+|    time_elapsed         | 36163         |
+|    total_timesteps      | 49024         |
+| train/                  |               |
+|    approx_kl            | 0.00067560934 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -1.19e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.62e+04      |
+|    n_updates            | 3820          |
+|    policy_gradient_loss | -0.00195      |
+|    std                  | 1.03          |
+|    value_loss           | 1.32e+05      |
+-------------------------------------------
+Episode 516 | Total Reward: -3368.78 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 79.5         |
+|    ep_rew_mean          | -2.26e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 384          |
+|    time_elapsed         | 36203        |
+|    total_timesteps      | 49152        |
+| train/                  |              |
+|    approx_kl            | 7.559592e-05 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -2.38e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.59e+04     |
+|    n_updates            | 3830         |
+|    policy_gradient_loss | 1.73e-05     |
+|    std                  | 1.03         |
+|    value_loss           | 1.32e+05     |
+------------------------------------------
+Episode 517 | Total Reward: -3449.52 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 80.4         |
+|    ep_rew_mean          | -2.28e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 385          |
+|    time_elapsed         | 36249        |
+|    total_timesteps      | 49280        |
+| train/                  |              |
+|    approx_kl            | 0.0006687958 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -2.38e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.96e+04     |
+|    n_updates            | 3840         |
+|    policy_gradient_loss | -0.00235     |
+|    std                  | 1.03         |
+|    value_loss           | 1.39e+05     |
+------------------------------------------
+Episode 518 | Total Reward: -3400.98 | Result: COLLISION
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 81.1         |
+|    ep_rew_mean          | -2.3e+03     |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 386          |
+|    time_elapsed         | 36299        |
+|    total_timesteps      | 49408        |
+| train/                  |              |
+|    approx_kl            | 0.0022849347 |
+|    clip_fraction        | 0.00156      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | -2.38e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.71e+04     |
+|    n_updates            | 3850         |
+|    policy_gradient_loss | -0.00614     |
+|    std                  | 1.03         |
+|    value_loss           | 1.34e+05     |
+------------------------------------------
+Episode 519 | Total Reward: -3463.48 | Result: COLLISION
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 82            |
+|    ep_rew_mean          | -2.32e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 387           |
+|    time_elapsed         | 36333         |
+|    total_timesteps      | 49536         |
+| train/                  |               |
+|    approx_kl            | 0.00011188444 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -3.58e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.68e+04      |
+|    n_updates            | 3860          |
+|    policy_gradient_loss | 0.000803      |
+|    std                  | 1.03          |
+|    value_loss           | 1.34e+05      |
+-------------------------------------------
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 82            |
+|    ep_rew_mean          | -2.32e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 388           |
+|    time_elapsed         | 36365         |
+|    total_timesteps      | 49664         |
+| train/                  |               |
+|    approx_kl            | 0.00088194385 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -1.19e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.78e+04      |
+|    n_updates            | 3870          |
+|    policy_gradient_loss | -0.00291      |
+|    std                  | 1.03          |
+|    value_loss           | 1.36e+05      |
+-------------------------------------------
+Episode 520 | Total Reward: -7272.22 | Result: COLLISION
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 84.4          |
+|    ep_rew_mean          | -2.38e+03     |
+| time/                   |               |
+|    fps                  | 1             |
+|    iterations           | 389           |
+|    time_elapsed         | 36395         |
+|    total_timesteps      | 49792         |
+| train/                  |               |
+|    approx_kl            | 0.00084494706 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -2.89         |
+|    explained_variance   | -1.19e-07     |
+|    learning_rate        | 0.0003        |
+|    loss                 | 6.16e+04      |
+|    n_updates            | 3880          |
+|    policy_gradient_loss | -0.0024       |
+|    std                  | 1.02          |
+|    value_loss           | 1.23e+05      |
+-------------------------------------------
+-----------------------------------------
+| rollout/                |             |
+|    ep_len_mean          | 84.4        |
+|    ep_rew_mean          | -2.38e+03   |
+| time/                   |             |
+|    fps                  | 1           |
+|    iterations           | 390         |
+|    time_elapsed         | 36430       |
+|    total_timesteps      | 49920       |
+| train/                  |             |
+|    approx_kl            | 0.000400485 |
+|    clip_fraction        | 0           |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.89       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 5.75e+04    |
+|    n_updates            | 3890        |
+|    policy_gradient_loss | -0.000383   |
+|    std                  | 1.03        |
+|    value_loss           | 1.15e+05    |
+-----------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 84.4         |
+|    ep_rew_mean          | -2.38e+03    |
+| time/                   |              |
+|    fps                  | 1            |
+|    iterations           | 391          |
+|    time_elapsed         | 36461        |
+|    total_timesteps      | 50048        |
+| train/                  |              |
+|    approx_kl            | 0.0005131867 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.89        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 6.07e+04     |
+|    n_updates            | 3900         |
+|    policy_gradient_loss | -0.00226     |
+|    std                  | 1.03         |
+|    value_loss           | 1.21e+05     |
+------------------------------------------
+✅ Training finished successfully
