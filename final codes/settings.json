@@ -1,0 +1,167 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockSpeed": 1.0,
+  "ViewMode": "FlyWithMe",
+  "RpcEnabled": true,
+  "EngineSound": false,
+  "PhysicsEngineName": "FastPhysicsEngine",
+
+  "Recording": {
+    "RecordOnMove": false,
+    "RecordInterval": 0.05,
+    "Cameras": [
+      {
+        "CameraName": "0",
+        "ImageType": 0,
+        "PixelsAsFloat": false,
+        "Compress": false
+      }
+    ]
+  },
+
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 256,
+        "Height": 256,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "AutoExposureBias": 0,
+        "AutoExposureMaxBrightness": 0.64,
+        "AutoExposureMinBrightness": 0.03,
+        "MotionBlurAmount": 0,
+        "TargetGamma": 1.0,
+        "ProjectionMode": "",
+        "OrthoWidth": 5.12
+      },
+      {
+        "ImageType": 5,
+        "Width": 256,
+        "Height": 256,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "MotionBlurAmount": 0,
+        "TargetGamma": 1.0
+      }
+    ],
+    "Gimbal": {
+      "Stabilization": 0,
+      "Pitch": 0,
+      "Roll": 0,
+      "Yaw": 0
+    },
+    "X": 0.30,
+    "Y": 0,
+    "Z": 0.10,
+    "Pitch": 0,
+    "Roll": 0,
+    "Yaw": 0
+  },
+
+  "Vehicles": {
+    "Drone1": {
+      "VehicleType": "SimpleFlight",
+      "DefaultVehicleState": "Armed",
+      "AutoCreate": true,
+
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -2.0,
+      "Pitch": 0.0,
+      "Roll": 0.0,
+      "Yaw": 0.0,
+
+      "EnableCollisionPassthrough": false,
+      "EnableCollisions": true,
+      "AllowAPIAlways": true,
+      "IsFpvVehicle": true,
+
+      "Cameras": {
+        "0": {
+          "CaptureSettings": [
+            {
+              "ImageType": 0,
+              "Width": 256,
+              "Height": 256,
+              "FOV_Degrees": 90,
+              "AutoExposureSpeed": 100,
+              "AutoExposureBias": 0,
+              "AutoExposureMaxBrightness": 0.64,
+              "AutoExposureMinBrightness": 0.03,
+              "MotionBlurAmount": 0,
+              "TargetGamma": 1.0
+            },
+            {
+              "ImageType": 5,
+              "Width": 256,
+              "Height": 256,
+              "FOV_Degrees": 90,
+              "MotionBlurAmount": 0,
+              "TargetGamma": 1.0
+            }
+          ],
+          "Gimbal": {
+            "Stabilization": 0,
+            "Pitch": -5,
+            "Roll": 0,
+            "Yaw": 0
+          },
+          "X": 0.30,
+          "Y": 0.0,
+          "Z": 0.10,
+          "Pitch": -5,
+          "Roll": 0,
+          "Yaw": 0
+        }
+      },
+
+      "SimpleFlight": {
+        "FirmwareName": "SimpleFlight",
+        "DefaultVehicleState": "Armed",
+        "AutoDisarm": false,
+
+        "AngularVelocityMax": 720.0,
+        "LinearVelocityMax": 15.0,
+        "LinearDamping": 0.01,
+        "AngularDamping": 0.2,
+
+        "ApiGainVelocity": 2.0,
+        "ApiGainP": 0.3,
+        "MinAltitudeToArm": 0.1,
+        "TakeoffVelocity": 3.0,
+        "LandVelocity": 0.5
+      },
+
+      "RC": {
+        "RemoteControlID": -1,
+        "AllowAPIWhenDisconnected": true,
+        "AllowMoveWithoutRC": true
+      }
+    }
+  },
+
+  "SubWindows": [
+    {
+      "WindowID": 0,
+      "CameraName": "0",
+      "ImageType": 0,
+      "VehicleName": "Drone1",
+      "Visible": true
+    },
+    {
+      "WindowID": 1,
+      "CameraName": "0",
+      "ImageType": 5,
+      "VehicleName": "Drone1",
+      "Visible": false
+    }
+  ],
+
+  "Wind": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  }
+}
